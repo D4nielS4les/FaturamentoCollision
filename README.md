@@ -1,0 +1,2 @@
+# FaturamentoCollision
+Projeto para empresa.
